@@ -9,3 +9,7 @@
 ```
 console.log('Hello, World!');
 ```
+
+- [x] First list item
+- [x] Second list item
+- [ ] Third list item
